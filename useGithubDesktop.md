@@ -10,5 +10,10 @@
 - 생성한 Repository에서 Set up in Desktop 버튼을 클릭한다.
 ![image](https://github.com/user-attachments/assets/cf4ca652-e8e6-4b36-b3ca-4ad95297c1f4)
 
+- 클릭하면 Github Desktop이 실행되고 다음과 같은 화면이 나타난다.
+- 여기서 파일 경로를 지정해주고 clone을 누른다.
+![image](https://github.com/user-attachments/assets/7ebd9543-0109-4ddc-9fd9-0ecabdb0797e)
+
+
 
 
