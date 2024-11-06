@@ -14,6 +14,10 @@
 - 여기서 파일 경로를 지정해주고 clone을 누른다.
 ![image](https://github.com/user-attachments/assets/7ebd9543-0109-4ddc-9fd9-0ecabdb0797e)
 
+- 지정한 파일로 들어가보면 새로운 파일이 생성되어 있고 .git이 들어있는 것을 확인할 수 있다.
+![image](https://github.com/user-attachments/assets/a482acc2-648b-4e41-94a7-7cd33baedec0)
+
+
 
 
 
