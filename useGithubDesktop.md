@@ -7,4 +7,8 @@
 ![CreateRepo](img/image-1.png)
 - 사용할 레포지토리 이름을 입력하고 Create repository 버튼을 클릭한다.
 
+- 생성한 Repository에서 Set up in Desktop 버튼을 클릭한다.
+![image](https://github.com/user-attachments/assets/cf4ca652-e8e6-4b36-b3ca-4ad95297c1f4)
+
+
 
