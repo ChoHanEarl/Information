@@ -18,6 +18,14 @@
 ![image](https://github.com/user-attachments/assets/a482acc2-648b-4e41-94a7-7cd33baedec0)
 
 - 이제 데스크탑을 통해 업로드가 되는지 확인하기 위해 간단한 메모장 파일을 하나 추가해보자.
+![image](https://github.com/user-attachments/assets/52bde1a3-14cf-4e0e-82ec-8b02122cef29)
+![image](https://github.com/user-attachments/assets/ab4188f0-ab20-4c67-8759-c762ed7bbd3c)
+- 추가한 메모장 파일이 데스크탑에 활성화되었고 Hello World도 잘 나타난다.
+- 이제 Commit & Push를 해보고 Github 웹사이트의 레포지토리에 적용이 되는지 확인해보자.
+
+
+
+
 
 
 
